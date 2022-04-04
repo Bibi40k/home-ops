@@ -1,0 +1,4 @@
+#!/bin/bash
+
+GITHUB_USER=""
+GITHUB_TOKEN=""
