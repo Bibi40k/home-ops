@@ -2,11 +2,11 @@
 name: cluster-0
 
 nodes:
-  - hostname: anvil
+  - hostname: locomotive1
     domain: ${domains.hardware}
     ip_address: 10.1.1.21
     controlplane: true
-  - hostname: delta
+  - hostname: carriage1
     domain: ${domains.hardware}
     ip_address: 10.1.1.31
 
